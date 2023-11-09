@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEX8PAAAAAAAAcAAAAAAAAABwAAAAAHB3B3Bwd3cAcHIHcHB3dwBwd3d3d3cAAHD3d3d3dwAAcHd3d3d3AABwcgdwcHd3AHB3B3Bwd3cAAAAAcAAAAAAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "goblin"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAQERH0BAAAABEREfQEAAAAAAAA8AAAACD1///wAP//APXy//AA//8A9f//////AAD1//////8AMPX//////wAA9f//////AAD1//////8AAPXy//AA//+g9f//8AD//wAAAADwAAAAAAAAAPD/DwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "boss"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
